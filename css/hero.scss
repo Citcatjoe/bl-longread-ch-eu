@@ -35,10 +35,12 @@
 // }
 .hero
 {
-    height: auto;
+    //height: 80vh;
+    filter: brightness(1);
 
     @include breakpoint(min, medium) {
-        height: 85vh;
+        //height: 85vh;
+        //height: 850px;
     };
 
 }

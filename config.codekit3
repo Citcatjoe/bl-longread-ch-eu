@@ -1876,6 +1876,29 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/dropdown-arrow.png" : {
+      "ft" : 32768,
+      "iS" : 1491,
+      "oA" : 0,
+      "oAP" : "\/img\/dropdown-arrow.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/dropdown-arrow.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/dropdown-arrow.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/fabien-goubet.png" : {
       "ft" : 32768,
       "iS" : 55201,
@@ -2312,6 +2335,111 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/this\/aut.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/aut.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/bel.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/bel.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/blocher-2.png" : {
+      "ft" : 32768,
+      "iS" : 866224,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/blocher-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/blocher-3.png" : {
+      "ft" : 32768,
+      "iS" : 1390176,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/blocher-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/blocher.png" : {
+      "ft" : 32768,
+      "iS" : 16700,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/blocher.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/bruxelles.jpg" : {
+      "ft" : 16384,
+      "iS" : 237976,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/bruxelles.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/bruxelles.png" : {
+      "ft" : 32768,
+      "iS" : 557831,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/bruxelles.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/bul.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/bul.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/chi.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/chi.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/Communique_Le systeme de recyclage Nespresso a 30 ans.pdf" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2349,11 +2477,140 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/this\/cro.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/cro.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/daniel.png" : {
+      "ft" : 32768,
+      "iS" : 19758,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/daniel.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/den.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/den.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/esp.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/esp.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/est.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/est.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/etf.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/img\/this\/etf.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/europe.png" : {
+      "ft" : 32768,
+      "iS" : 500872,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/europe.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/eurostat.jpg" : {
+      "ft" : 16384,
+      "iS" : 366942,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/eurostat.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/flag-swe.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/flag-swe.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/flag-swi.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/flag-swi.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/fra.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/fra.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/ger.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/ger.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/gre.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/gre.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -2384,6 +2641,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/img\/this\/hun.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/hun.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/img\/this\/icon-agronomist.svg" : {
       "ft" : 2097152,
@@ -2531,6 +2798,59 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/this\/ire.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/ire.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/ita.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/ita.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/lausanne.jpg" : {
+      "ft" : 16384,
+      "iS" : 206983,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/lausanne.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/let.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/let.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/lit.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/lit.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/logo-bitcoin.png" : {
       "ft" : 32768,
       "iS" : 6610,
@@ -2634,6 +2954,26 @@
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/img\/this\/logo-yuh.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/lux.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/lux.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/mal.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/mal.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -2763,6 +3103,16 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/this\/ned.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/ned.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/Nespresso_Monogram_2021_CMYK_White_on_Black.ai" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2836,11 +3186,109 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/this\/opening-left_old.png" : {
+      "ft" : 32768,
+      "iS" : 545818,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/opening-left_old.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/opening-left.png" : {
+      "ft" : 32768,
+      "iS" : 697877,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/opening-left.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/opening-righ_oldt.png" : {
+      "ft" : 32768,
+      "iS" : 433640,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/opening-righ_oldt.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/opening-right.png" : {
+      "ft" : 32768,
+      "iS" : 688103,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/opening-right.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/this\/opening.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/img\/this\/opening.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/parlement1.jpg" : {
+      "ft" : 16384,
+      "iS" : 260872,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/parlement1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/parlement2.jpg" : {
+      "ft" : 16384,
+      "iS" : 264212,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/parlement2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/pol.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/pol.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/por.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/por.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -2898,6 +3346,29 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/this\/pym.png" : {
+      "ft" : 32768,
+      "iS" : 17316,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/pym.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/rom.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/rom.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/schema-ruler.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -2918,6 +3389,46 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/this\/slo-1.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/slo-1.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/slo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/slo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/swe.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/swe.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/tch.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/tch.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/test.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -2927,6 +3438,192 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/img\/this\/title-dot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/title-dot.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/title-immigration.png" : {
+      "ft" : 32768,
+      "iS" : 207720,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/title-immigration.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/title-judge.png" : {
+      "ft" : 32768,
+      "iS" : 448161,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/title-judge.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/title-salaires_OLD.png" : {
+      "ft" : 32768,
+      "iS" : 332865,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/title-salaires_OLD.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/title-salaires.png" : {
+      "ft" : 32768,
+      "iS" : 1099584,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/title-salaires.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/title-souverainete.png" : {
+      "ft" : 32768,
+      "iS" : 230788,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/title-souverainete.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/title-votations.png" : {
+      "ft" : 32768,
+      "iS" : 322455,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/title-votations.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/udc-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 130743,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/udc-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/udc-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 146724,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/udc-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/udc-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 131324,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/udc-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/uk.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/uk.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/unia.jpg" : {
+      "ft" : 16384,
+      "iS" : 247587,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/unia.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/viktor.jpg" : {
+      "ft" : 16384,
+      "iS" : 184143,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/viktor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/this\/viviane.png" : {
+      "ft" : 32768,
+      "iS" : 21063,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/viviane.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/votations.gif" : {
+      "ft" : 4194304,
+      "iS" : 42930,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/votations.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
     },
     "\/img\/this\/welldone.svg" : {
       "ft" : 2097152,
@@ -3211,6 +3908,49 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/OLD_index.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/OLD_index.php",
+      "oF" : 0
+    },
+    "\/OLD_templates\/_blocks.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/OLD_templates\/_blocks.html.twig",
+      "oF" : 0
+    },
+    "\/OLD_templates\/README.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/OLD_templates\/README.html",
+      "oF" : 0
+    },
+    "\/OLD_templates\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/OLD_templates\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
     "\/README.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3240,7 +3980,7 @@
     },
     "\/social.jpg" : {
       "ft" : 16384,
-      "iS" : 637626,
+      "iS" : 437134,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/social.jpg",
@@ -3251,40 +3991,29 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/templates\/_blocks.html.twig" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/templates\/_blocks.html.twig",
-      "oF" : 0
-    },
-    "\/templates\/README.html" : {
+    "\/templates\/header-and-share\/DISABLED_header-and-share.html.twig" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/templates\/README.html",
+      "oAP" : "\/templates\/header-and-share\/DISABLED_header-and-share.html.twig",
       "oF" : 0
     },
-    "\/templates\/README.md" : {
+    "\/templates\/html-elements\/_html-elements.html.twig" : {
       "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
+      "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/templates\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
+      "oAP" : "\/templates\/html-elements\/_html-elements.html.twig",
+      "oF" : 0
+    },
+    "\/templates\/metas-and-scripts\/DISABLED_metas-and-scripts.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/templates\/metas-and-scripts\/DISABLED_metas-and-scripts.html.twig",
+      "oF" : 0
     },
     "\/variables.json" : {
       "ft" : 524288,
@@ -8331,7 +9060,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 689520013.15429795,
-    "displayValue" : "bl-longread-yuh-1",
+    "displayValue" : "bl-longread-ch-eu",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/favicon\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0

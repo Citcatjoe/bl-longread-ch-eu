@@ -22,11 +22,11 @@
 .hero 
 { 
     background:transparent; 
-    height: 80vh;
+    //height: 80vh;
 
     @include breakpoint(min, medium) {
         //height: auto;
-        height: 80vh;
+        //height: 80vh;
     };
 
     svg#opening
@@ -58,6 +58,31 @@
 .hero .video-wrapper video { position: absolute; }
 // .vjs-control-bar { display: none !important; }
 .player1-dimensions, .player2-dimensions, .player3-dimensions, .player4-dimensions { width: 100%; height: 100%;}
+
+// .opening-left
+// {
+//     width: 100vw;
+//     max-width: 100vw;
+//     left: calc(100vw - 672px) !important;
+// }
+.opening-left, .opening-right
+{
+    width: 113% !important;
+    max-width: 10000px;
+
+    @include breakpoint(min, small) {
+        width: 108% !important;
+    };
+
+    @include breakpoint(min, medium) {
+        width: 105% !important;
+    };
+
+    @include breakpoint(min, large) {
+        width: 103% !important;
+    };
+    
+}
 
 .gradient
 {
@@ -110,17 +135,17 @@ footer
 
 .hero figure { background:transparent; }
 
-figure ul 
-{
-    border-left: 40px solid #A7A879;
-    font-weight: 300;
-    //height:10px;
+// figure ul 
+// {
+//     border-left: 40px solid #A7A879;
+//     font-weight: 300;
+//     //height:10px;
 
-    li 
-    {
-        padding-left: 40px;
-    }
-}
+//     li 
+//     {
+//         padding-left: 40px;
+//     }
+// }
 
 .color 
 {
@@ -274,5 +299,26 @@ img.miniheader-img
     //     transition: all 0.2s;
     // }
 }
+
+select
+{
+    font-family: Poppins !important;
+}
+
+.aspect-custom
+{
+    aspect-ratio: 25/9;
+    //background: red;
+
+    @include breakpoint(min, medium) {
+        aspect-ratio: 32/9;
+    };
+}
+
+// .md\:-mx-96
+// {
+//     margin-left: -28rem !important;
+//     margin-right: -28rem !important;
+// }
 
 

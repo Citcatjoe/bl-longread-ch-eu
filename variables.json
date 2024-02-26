@@ -1,11 +1,17 @@
 {
-	"title": "J’ai testé 3 méthodes d’investissement en ligne pour débutants",
-	"titlesocial": "J’ai testé 3 méthodes d’investissement en ligne pour débutants",
-	"description": "Épargner ou investir? Quelle stratégie choisir pour faire fructifier ses économies et comment se lancer dans la jungle des investissements en tant que débutant absolu?",
+	"title": "Suisse - Europe: Tabous et désaccords",
+	"titlesocial": "Suisse - Europe: Tabous et désaccords",
+	"description": "Confédération et UE, portrait d'un couple colérique condamné à vivre ensemble.",
 	"authors": {
-		"photos": "Application Yuh, undraw.co",
-		"videos": false,
-		"writer": "Margaux Sitavanc",
+		"photos": null,
+		"videos": null,
+		"writer": {
+			"fname": "Richard",
+			"lname": "Werly",
+			"title": "Journaliste Blick",
+			"filetype": "png",
+			"url": "https://www.blick.ch/fr/auteurs/richard-werly-id17453398.html"
+		},
 		"dev": "César Greppin"
 	},
 	"imgSocial": "social.jpg",
